@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/FoodTherapyUI/bin/Debug/net5.0-windows
+/FoodTherapyUI/obj
+/FoodTherapyService/bin/Debug/net5.0
+/FoodTherapyService/obj
+/FoodTherapyDomain/bin/Debug/net5.0
+/FoodTherapyDomain/obj
+/FoodTherapyCore/bin/Debug/net5.0
+/FoodTherapyCore/obj

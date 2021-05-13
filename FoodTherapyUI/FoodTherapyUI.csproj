@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FoodTherapyCore\FoodTherapyCore.csproj" />
+    <ProjectReference Include="..\FoodTherapyDomain\FoodTherapyDomain.csproj" />
+    <ProjectReference Include="..\FoodTherapyService\FoodTherapyService.csproj" />
+  </ItemGroup>
+
+</Project>
